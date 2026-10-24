@@ -2,8 +2,7 @@ RCB Fanpage
 A fan-made website built as my first hands-on project while learning frontend web development.
 This project was an opportunity to explore how HTML, CSS, and JavaScript work together to create an interactive website.
 
-⭐️Live Demo
-Visit the RCB Fanpage at: https://basundhara-07.github.io/RCB-Fanpage/
+⭐️Live Demo - visit the RCB Fanpage at: https://basundhara-07.github.io/RCB-Fanpage/
 
 ⭐️Features
 * RCB-inspired website design
